@@ -1,0 +1,8 @@
+source_type,reliability_weight
+Device Telemetry,0.95
+Biometric Logs,0.88
+CCTV Feed,0.85
+RFID Access Logs,0.7
+Witness Statement,0.55
+Live System Alerts,0.45
+Anonymous Tip,0.3

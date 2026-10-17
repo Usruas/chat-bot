@@ -1,0 +1,5 @@
+option,claim,validity,flaw,evidence_chain,calculated_confidence
+A,Dr. Aris Thorne physically stole the HSM to sell cryptographic keys.,False,"Disproved by cell tower telemetry, gait analysis mismatch, and tampered database logs.",,
+B,Marcus Vance manipulated the security database and directly stole the HSM.,False,"Vance provided network access via a compromised hardware tap, but did not move or extract the physical HSM.",,
+C,"Elena Rostova executed an unauthorized emergency extraction of the HSM to prevent exfiltration via a zero-day exploit, enabled by Marcus Vance's compromised network tap. Meanwhile, Kaelen Voss tampered with database logs and badge data to frame Dr. Thorne and obscure the breach.",True,,"EVI 004, EVI 006, EVI 007, EVI 009, EVI 012",89.2%
+D,Kaelen Voss stole the HSM while remote-wiping the security database.,False,"Voss manipulated database logs to assist the cover-up and frame Thorne, but never physically accessed Vault 9-Alpha or handled the HSM unit.",,
